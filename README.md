@@ -1,14 +1,15 @@
 # 🤖 MARK XXXIX (39)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
+# The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
 > 📺 [Watch the full setup video on YouTube](https://youtube.com)
 A real-time voice AI that can hear, see, understand, and control your computer — on any OS. Supporting Windows, macOS, and Linux. Local execution. Zero subscriptions. Engineered for total autonomy.
 ---
-## ✨ Overview
+# ✨ Overview
+
 MARK XXXIX represents the pinnacle of the Jarvis series, evolving into a more flexible and robust system. It bridges the gap between the operating system and human intent. Through natural dialogue, Mark 39 analyzes your screen, processes uploaded documents, and executes complex workflows with a brand-new, adaptive interface.
-It's not just an assistant — it's an extension of your digital life.
----
-## 🚀 Capabilities
-### Core Features
+It's not just an assistant — it's an extension of your digital life
+
+# 🚀 Capabilities
+# Core Features
 
 | Feature | Description |
 | :--- | :--- |
