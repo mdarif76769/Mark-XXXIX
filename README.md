@@ -39,7 +39,7 @@ python main.py
 ​⚠️ Installation Note: To keep the repository lightweight, some OS-specific dependencies are not bundled in requirements.txt. If you run into a ModuleNotFoundError, simply install the missing package via pip install <module_name> for your specific system.
 
 ​📋 Requirements
-|Requirement |     Details|
+|Requirement |  Details |
 | :--- | :--- |
 |OS | Windows 10/11, macOS, or Linux|
 |Python | 3.11 or 3.12|
