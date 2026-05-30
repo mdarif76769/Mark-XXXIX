@@ -20,8 +20,8 @@ Feature	Description
 ⌨️ Hybrid Input	Seamlessly switch between keyboard typing and voice commands
 🆕 What's New in XXXIX
 📂 Advanced File Handling — New support for direct file uploads. Drop PDFs, source code, or images into the assistant to have them analyzed, summarized, or edited instantly.
-# 🎨 Adaptive & Flexible UI — A complete overhaul of the interface. The new UI is fully resizable and responsive, featuring transparency controls and customizable layouts to fit your workspace perfectly.
-# 🐧🍎 Refined Cross-Platform Stability — Major fixes for macOS and Linux compatibility. Core system actions are now more consistent across all three major operating systems.
+🎨 Adaptive & Flexible UI — A complete overhaul of the interface. The new UI is fully resizable and responsive, featuring transparency controls and customizable layouts to fit your workspace perfectly.
+🐧🍎 Refined Cross-Platform Stability — Major fixes for macOS and Linux compatibility. Core system actions are now more consistent across all three major operating systems.
 ⚡ Optimized Core Engine — Significant performance boost in tool-calling logic and response generation, resulting in a 40% faster interaction speed.
 ⚡ Quick Start
 ```
@@ -38,9 +38,9 @@ playwright install
 python main.py
 ```
 
-# ⚠️ Installation Note: To keep the repository lightweight, some OS-specific dependencies are not bundled in requirements.txt. If you run into a ModuleNotFoundError, simply install the missing package via pip install <module_name> for your specific system.
+⚠️ Installation Note: To keep the repository lightweight, some OS-specific dependencies are not bundled in requirements.txt. If you run into a ModuleNotFoundError, simply install the missing package via pip install <module_name> for your specific system.
 
-# 📋 Requirements
+📋 Requirements
 Requirement	Details
 OS	Windows 10/11, macOS, or Linux
 Python	3.11 or 3.12
