@@ -40,6 +40,7 @@ python main.py
 
 ​📋 Requirements
 |Requirement Details|
+|:---|
 |OS Windows 10/11, macOS, or Linux|
 |Python 3.11 or 3.12|
 |Microphone Required for voice interaction|
